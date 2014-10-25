@@ -1,0 +1,10 @@
+C:\nop34\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+C:\nop34\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+C:\nop34\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+C:\nop34\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+C:\nop34\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+C:\nop34\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+C:\nop34\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+C:\nop34\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+C:\nop34\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+C:\nop34\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

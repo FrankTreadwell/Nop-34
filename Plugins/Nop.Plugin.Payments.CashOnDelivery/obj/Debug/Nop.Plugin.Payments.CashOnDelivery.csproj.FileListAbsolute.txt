@@ -1,0 +1,11 @@
+C:\nop34\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\Configure.cshtml
+C:\nop34\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\PaymentInfo.cshtml
+C:\nop34\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+C:\nop34\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\web.config
+C:\nop34\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo.jpg
+C:\nop34\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo2.jpg
+C:\nop34\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll.config
+C:\nop34\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\nop34\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+C:\nop34\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\nop34\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

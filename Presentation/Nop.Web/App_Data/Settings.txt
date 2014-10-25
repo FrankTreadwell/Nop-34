@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=FRANK\SQLEXPRESS;Initial Catalog=dev_Sewbie;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=asdqwe123
