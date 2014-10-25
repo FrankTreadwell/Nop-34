@@ -1,0 +1,9 @@
+C:\nop34\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+C:\nop34\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+C:\nop34\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+C:\nop34\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+C:\nop34\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+C:\nop34\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+C:\nop34\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+C:\nop34\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+C:\nop34\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb
